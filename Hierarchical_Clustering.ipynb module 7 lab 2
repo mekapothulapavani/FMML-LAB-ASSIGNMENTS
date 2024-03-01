@@ -1490,11 +1490,11 @@
         "print(clusters)"
       ],
       "metadata": {
-        "id": "P8YJhS_7Ah9V",
-        "outputId": "4db46bf1-b14c-442a-ac12-79dddfadabfc",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "P8YJhS_7Ah9V",
+        "outputId": "4db46bf1-b14c-442a-ac12-79dddfadabfc"
       },
       "execution_count": 15,
       "outputs": [
